@@ -1,0 +1,32 @@
+{
+  "name": "canlah-ai",
+  "owner": {
+    "name": "Canlah AI",
+    "url": "https://canlah.ai"
+  },
+  "description": "Canlah AI's open agent skills for GEO (visibility in AI answers).",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "geo-playbook",
+      "source": "./",
+      "description": "Audit and plan a website's visibility in AI answers with the Canlah AI GEO Playbook: crawler access, identity, baseline, 46 page types, regulated-industry compliance, off-site work, monthly retests.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Canlah AI",
+        "url": "https://canlah.ai"
+      },
+      "homepage": "https://canlah.ai/zh/playbook/",
+      "repository": "https://github.com/Canlah-AI/geo-playbook",
+      "license": "CC-BY-4.0",
+      "keywords": [
+        "geo",
+        "ai-search",
+        "chatgpt",
+        "ai-overviews",
+        "compliance"
+      ],
+      "category": "marketing"
+    }
+  ]
+}

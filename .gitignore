@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+_build/
+_site/
+tools/leak-words.txt
+.DS_Store

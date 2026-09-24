@@ -1,0 +1,15 @@
+{
+  "name": "geo-playbook",
+  "displayName": "GEO Playbook",
+  "version": "1.0.0",
+  "description": "Audit and plan a website's visibility in AI answers (ChatGPT, Google AI Overviews / AI Mode, Perplexity): crawler access, entity identity, frozen question pool and baseline, 46 cited page types, compliant copy for regulated industries, off-site work and monthly retests. From the Canlah AI GEO Playbook.",
+  "author": {
+    "name": "Canlah AI",
+    "url": "https://canlah.ai"
+  },
+  "homepage": "https://canlah.ai/zh/playbook/",
+  "repository": "https://github.com/Canlah-AI/geo-playbook",
+  "license": "CC-BY-4.0",
+  "keywords": ["geo", "generative-engine-optimization", "ai-search", "chatgpt", "ai-overviews", "seo", "compliance", "singapore"],
+  "skills": "./"
+}
