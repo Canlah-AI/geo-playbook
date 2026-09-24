@@ -8,7 +8,7 @@ Instructions for any AI coding or research assistant (Codex, Cursor, OpenClaw, C
 
 The method in one sentence: **write facts in clean visible HTML, let crawlers in, make machines sure which business it is, then get onto the third-party pages AI already reads, and measure with the same ruler every month.** 把事实用干净的可见 HTML 写出来，让爬虫进得来，让机器认得出是这一家，再想办法出现在 AI 本来就在抓的第三方页上。
 
-Evidence base: Canlah AI's own measurements on Singapore businesses in five industries (dental and aesthetics, family law, tuition, B2B SaaS, e-commerce), both rounds completed 2026-09-23. Round 1: 60 questions on ChatGPT and Google AI Mode, 526 citations, 92 cited pages taken apart. Round 2: ChatGPT only, about 290 citations. Outside Singapore, treat rules as method and re-measure. Full playbook for people (Chinese): https://canlah.ai/zh/playbook/ · English quick guide: https://canlah.ai/playbook/
+Evidence base: Canlah AI's own measurements on Singapore businesses in five industries (dental and aesthetics, family law, tuition, B2B SaaS, e-commerce), both rounds completed 2026-09-23. Round 1: 60 questions on ChatGPT and Google AI Mode, 526 citations, 92 cited pages taken apart. Round 2: ChatGPT only, 241 citations. Outside Singapore, treat rules as method and re-measure. Full playbook for people (Chinese): https://canlah.ai/zh/playbook/ · English quick guide: https://canlah.ai/playbook/
 
 ## Ground rules (every step)
 

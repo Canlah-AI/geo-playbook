@@ -113,7 +113,7 @@
 两轮都在 2026-09-23 完成，范围是新加坡的五个行业：牙科·医美、家事法、补习·教育、B2B SaaS、电商·消费品。
 
 - **两腿实测**：60 个问句，其中牙科、法律、补习各有 2 句中文。ChatGPT 和 Google AI Mode 两个引擎都测，共 526 条引用、约 300 个域名，逐页拆了 92 页。
-- **单腿补测**：5 个行业各 10 句，只测 ChatGPT（OpenAI 接口 gpt-5.5 + web_search，定位新加坡）。约 290 条引用，其中 228 条落在新的页型上。
+- **单腿补测**：5 个行业各 10 句，只测 ChatGPT（OpenAI 接口 gpt-5.5 + web_search，定位新加坡）。241 条引用。按页型逐页点数（合并了正式与一次补跑，不等于条数）：新页型 228 次、已知九型 63 次。
 
 每一条数据的口径见附录 A.3 和 A.4。
 
@@ -147,8 +147,8 @@ aaron-marketing-skills 覆盖七个营销领域、120 个技能，本书只讲�
 
 | 行业 | ChatGPT 主要引 | AI Mode 主要引 |
 |---|---|---|
-| 牙科·医美 | 政府和公立机构，72% | 同行诊所的价格页，88% |
-| 家事法 | .gov.sg，78% | 律所页，73% |
+| 牙科·医美 | 政府和公立机构，76%（38/50） | 诊所等商业站，75%（39/52） |
+| 家事法 | .gov.sg，77%（46/60） | 律所等商业站，69%（36/52） |
 | 电商·消费品 | 商品详情页，54% | Google Shopping 商品卡，44%。两边引用的 URL 重叠为 0 |
 
 所以：
@@ -313,7 +313,7 @@ Industry regulators' advertising codes, with their original text, clause numbers
 Both rounds were completed on 2026-09-23 and covered five Singapore industries: dental and aesthetics, family law, tuition and education, B2B SaaS, and e-commerce and consumer goods.
 
 - **Two-engine round**: 60 questions, 6 of them in Chinese (2 each in dental, legal and tuition). Both ChatGPT and Google AI Mode were tested: 526 citations across about 300 domains, with 92 pages taken apart one by one.
-- **ChatGPT-only round**: 10 questions per industry, ChatGPT only (OpenAI API, gpt-5.5 + web_search, Singapore location). About 290 citations, 228 of them on page types not seen in the first round.
+- **ChatGPT-only round**: 10 questions per industry, ChatGPT only (OpenAI API, gpt-5.5 + web_search, Singapore location). 241 citations. Page-type tallies (228 mentions of page types not seen in the first round, 63 of the nine known ones) combine the official run and one extra run, so they are mention counts, not citation counts.
 
 Appendix A.3 and A.4 give the method for every figure.
 
@@ -347,8 +347,8 @@ The two engines cite different kinds of pages (A.3):
 
 | Industry | ChatGPT mostly cites | AI Mode mostly cites |
 |---|---|---|
-| Dental and aesthetics | Government and public institutions, 72% | Other clinics' price pages, 88% |
-| Family law | .gov.sg, 78% | Law firm pages, 73% |
+| Dental and aesthetics | Government and public institutions, 76% (38/50) | Clinics and other commercial sites, 75% (39/52) |
+| Family law | .gov.sg, 77% (46/60) | Law firms and other commercial sites, 69% (36/52) |
 | E-commerce and consumer goods | Product detail pages, 54% | Google Shopping cards, 44%. The two engines' cited URLs do not overlap at all |
 
 So:
