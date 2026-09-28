@@ -30,7 +30,7 @@ Evidence base: Canlah AI's own measurements on Singapore businesses in five indu
 | [references/page-types.md](references/page-types.md) | Step 5 (46 page types, block order, what AI copies) |
 | [references/myths.md](references/myths.md) | When anyone proposes llms.txt, schema everywhere, paid listings, view-chasing, blocking GPTBot |
 
-When a detail is not in the references, open the chapter URL listed at the end (Chinese). Quote the book's limits along with its numbers.
+When a detail is not in the references, fetch the full chapter as Markdown: take the chapter URL listed at the end and replace the trailing slash with `.md` (for example https://canlah.ai/zh/playbook/start.md). All chapters: https://canlah.ai/zh/playbook/index.md. Chapters are long; fetch only the one the current step needs. Quote the book's limits along with its numbers.
 
 ---
 
@@ -187,25 +187,27 @@ Never say: "AI will recommend you now", "seat share = market share", "up 2, tren
 
 ## Full chapters (Chinese, canlah.ai)
 
-| Chapter | URL |
-|---|---|
-| 0 How to use; decide your side | https://canlah.ai/zh/playbook/start/ |
-| 1 How buyers ask and AI answers | https://canlah.ai/zh/playbook/how-ai-answers/ |
-| 2 Open the door | https://canlah.ai/zh/playbook/open-the-door/ |
-| 3 Identity | https://canlah.ai/zh/playbook/identity/ |
-| 4 Question pool, baseline, targets | https://canlah.ai/zh/playbook/pick-questions/ |
-| 5 Writing pages: index and rules | https://canlah.ai/zh/playbook/write-pages/ |
-| 5 Tier A blueprints | https://canlah.ai/zh/playbook/page-types-core/ |
-| 5 Tier B cards | https://canlah.ai/zh/playbook/page-types-more/ |
-| 5 Tier C and pre-publish checks | https://canlah.ai/zh/playbook/page-types-checklist/ |
-| 5 Production at scale | https://canlah.ai/zh/playbook/at-scale/ |
-| 6 Off-site | https://canlah.ai/zh/playbook/off-site/ |
-| 7 Retest and judgement | https://canlah.ai/zh/playbook/measure/ |
-| 8 A new industry | https://canlah.ai/zh/playbook/new-industry/ |
-| A Evidence | https://canlah.ai/zh/playbook/evidence/ |
-| B Templates (robots.txt, letters, ledgers) | https://canlah.ai/zh/playbook/templates/ |
-| C Ten-axis values for five industries | https://canlah.ai/zh/playbook/industry-reference/ |
-| D Number discipline and glossary | https://canlah.ai/zh/playbook/glossary/ |
-| Dental and aesthetics edition | https://canlah.ai/zh/playbook/dental/start/ |
+| Chapter | Web page | Markdown (for agents) |
+|---|---|---|
+| 0 How to use; decide your side | https://canlah.ai/zh/playbook/start/ | https://canlah.ai/zh/playbook/start.md |
+| 1 How buyers ask and AI answers | https://canlah.ai/zh/playbook/how-ai-answers/ | https://canlah.ai/zh/playbook/how-ai-answers.md |
+| 2 Open the door | https://canlah.ai/zh/playbook/open-the-door/ | https://canlah.ai/zh/playbook/open-the-door.md |
+| 3 Identity | https://canlah.ai/zh/playbook/identity/ | https://canlah.ai/zh/playbook/identity.md |
+| 4 Question pool, baseline, targets | https://canlah.ai/zh/playbook/pick-questions/ | https://canlah.ai/zh/playbook/pick-questions.md |
+| 5 Writing pages: index and rules | https://canlah.ai/zh/playbook/write-pages/ | https://canlah.ai/zh/playbook/write-pages.md |
+| 5 Tier A blueprints | https://canlah.ai/zh/playbook/page-types-core/ | https://canlah.ai/zh/playbook/page-types-core.md |
+| 5 Tier B cards | https://canlah.ai/zh/playbook/page-types-more/ | https://canlah.ai/zh/playbook/page-types-more.md |
+| 5 Tier C and pre-publish checks | https://canlah.ai/zh/playbook/page-types-checklist/ | https://canlah.ai/zh/playbook/page-types-checklist.md |
+| 5 Production at scale | https://canlah.ai/zh/playbook/at-scale/ | https://canlah.ai/zh/playbook/at-scale.md |
+| 6 Off-site | https://canlah.ai/zh/playbook/off-site/ | https://canlah.ai/zh/playbook/off-site.md |
+| 7 Retest and judgement | https://canlah.ai/zh/playbook/measure/ | https://canlah.ai/zh/playbook/measure.md |
+| 8 A new industry | https://canlah.ai/zh/playbook/new-industry/ | https://canlah.ai/zh/playbook/new-industry.md |
+| A Evidence | https://canlah.ai/zh/playbook/evidence/ | https://canlah.ai/zh/playbook/evidence.md |
+| B Templates (robots.txt, letters, ledgers) | https://canlah.ai/zh/playbook/templates/ | https://canlah.ai/zh/playbook/templates.md |
+| C Ten-axis values for five industries | https://canlah.ai/zh/playbook/industry-reference/ | https://canlah.ai/zh/playbook/industry-reference.md |
+| D Number discipline and glossary | https://canlah.ai/zh/playbook/glossary/ | https://canlah.ai/zh/playbook/glossary.md |
+| Dental and aesthetics edition | https://canlah.ai/zh/playbook/dental/start/ | https://canlah.ai/zh/playbook/dental/start.md |
+
+Every dental and aesthetics chapter is listed in https://canlah.ai/zh/playbook/index.md. Full books as PDF: https://canlah.ai/playbook/files/geo-playbook-general-zh.pdf · https://canlah.ai/playbook/files/geo-playbook-dental-zh.pdf
 
 Content © Canlah AI, CC BY 4.0. Attribute as: "GEO Playbook by Canlah AI, https://canlah.ai/zh/playbook/".
