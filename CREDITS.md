@@ -201,7 +201,7 @@ aaron-marketing-skills 覆盖七个营销领域、120 个技能，本书只讲�
 5. **量具有偏差。** 我们的探针走的是接口：ChatGPT 用 OpenAI 接口，AI Mode 用第三方 SERP 接口。用户在网页版看到的可能不一样，公开研究显示接口和网页版的引用分布有系统性偏斜（A.2）。
 6. **引用的外部研究多是美国或跨行业样本。** 大多没有在新加坡验证过，很多研究原文没有给链接（A.1、A.5）。
 7. **合规规则不是法律意见。** 通用版里的标签只代表举例行业的依据档次，不是你所在行业的法条；书里还有标着「未取到原文」的条目（0.4）。
-8. **原始数据还没有公开。** 两轮实测的原始答案和逐页拆解，还没有整理成可以公开的数据集，书里给的是汇总数和样本链接。
+8. **数据已公开，但只是一次快照。** 两轮的问句、每条引用网址、ChatGPT 答案和逐页标注已发布为数据集 [ai-citations-sg-2026](https://github.com/Canlah-AI/ai-citations-sg-2026)（CC BY 4.0，DOI 10.5281/zenodo.23005020）；Google AI Mode 的答案原文和 Google 排名原始列表按条款不公开，只给聚合数。
 9. **书本身也有没理顺的地方。** 例如交稿自检清单的出处标注和实际条数对不上。我们在附录 A.3 照实列了出来，没有改成对得上的说法。
 
 ---
@@ -401,5 +401,5 @@ So:
 5. **Our instruments have a bias.** Our probes run through APIs: the OpenAI API for ChatGPT and a third-party SERP API for AI Mode. Users of the web interfaces may see something different, and public research shows citation distributions differ systematically between API and web (A.2).
 6. **Most outside studies use US or cross-industry samples.** Most have not been validated in Singapore, and many of the original studies give no link (A.1, A.5).
 7. **The compliance rules are not legal advice.** In the general edition, a label describes the evidence level in an example industry, not the law in your industry. Some items are still marked "source text not obtained" (0.4).
-8. **The raw data is not public yet.** The raw answers and page-by-page teardowns from both rounds have not been prepared as a public dataset. The book reports totals and sample URLs.
+8. **The data is public, but it is one snapshot.** Questions, every cited URL, ChatGPT answers and the page annotations from both rounds are published as the dataset [ai-citations-sg-2026](https://github.com/Canlah-AI/ai-citations-sg-2026) (CC BY 4.0, DOI 10.5281/zenodo.23005020). Google AI Mode answer text and Google result lists are not redistributed; only aggregates are reported.
 9. **The book still has loose ends.** For example, the source note on the pre-publish self-check does not match the actual number of questions. Appendix A.3 lists the mismatch as it stands; we did not paper over it.

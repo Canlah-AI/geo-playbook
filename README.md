@@ -5,6 +5,8 @@
 
 By [Canlah AI](https://canlah.ai) · Singapore · v1.0 · content CC BY 4.0, code MIT
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23005022.svg)](https://doi.org/10.5281/zenodo.23005022) · Data: [Canlah-AI/ai-citations-sg-2026](https://github.com/Canlah-AI/ai-citations-sg-2026) · DOI [10.5281/zenodo.23005020](https://doi.org/10.5281/zenodo.23005020)
+
 ## Read the full playbook · 完整版在官网
 
 This repository is the condensed version for agents. The full text for people lives only on the website:
@@ -62,10 +64,12 @@ Full account, with the book section behind each point: [`CREDITS.md`](CREDITS.md
 
 Both rounds were completed on 2026-09-23 on Singapore businesses in five industries: dental and aesthetics, family law, tuition and education, B2B SaaS, e-commerce and consumer goods.
 
-- **Round 1, two engines**: 60 questions (6 in Chinese), ChatGPT and Google AI Mode, **526 citations** across about 300 domains, **92 cited pages taken apart** one by one.
+- **Round 1, two engines**: 60 questions (6 in Chinese), ChatGPT and Google AI Mode, **526 citations** across 285 distinct hosts, **92 cited pages taken apart** one by one.
 - **Round 2, ChatGPT only**: 10 questions per industry (OpenAI API, gpt-5.5 + web search, Singapore location), **241 citations**. Page-type tallies (228 mentions of page types not seen in round 1, 63 of the nine known ones) combine the official run and one extra run, so they are mention counts, not citation counts.
 
-Limits: tier B page types have ChatGPT evidence only; quote positions were estimated by eye; there is no long-term outcome data yet; samples are small and Singapore-only; probes run through APIs, which differ systematically from the web interfaces; the raw data is not public yet. Details: [`CREDITS.md`](CREDITS.md), section "What we have not done".
+Limits: tier B page types have ChatGPT evidence only; quote positions were estimated by eye; there is no long-term outcome data yet; samples are small and Singapore-only; probes run through APIs, which differ systematically from the web interfaces.
+
+**The data is public**: questions, every cited URL, ChatGPT answers and the page annotations are in [Canlah-AI/ai-citations-sg-2026](https://github.com/Canlah-AI/ai-citations-sg-2026) (CC BY 4.0, DOI [10.5281/zenodo.23005020](https://doi.org/10.5281/zenodo.23005020), also on [Hugging Face](https://huggingface.co/datasets/CanlahAI/ai-citations-sg-2026) and at https://canlah.ai/data/ai-citations-sg-2026/). Every number above can be recounted from it. Details: [`CREDITS.md`](CREDITS.md), section "What we have not done".
 
 ## What's in this repository · 仓库内容
 
@@ -96,8 +100,11 @@ This playbook was not written from scratch. We borrowed template structures, sen
 
 ## Related · 互链
 
-- **canlah.ai**: full playbook https://canlah.ai/zh/playbook/ · English quick guide https://canlah.ai/playbook/
+- **canlah.ai**: full playbook https://canlah.ai/zh/playbook/ · English quick guide https://canlah.ai/playbook/ · dataset page https://canlah.ai/data/ai-citations-sg-2026/
+- **Cite the playbook**: Pang, H. (2026). *GEO Playbook v1.0*. Canlah AI. Zenodo. https://doi.org/10.5281/zenodo.23005022
+- **[Canlah-AI/ai-citations-sg-2026](https://github.com/Canlah-AI/ai-citations-sg-2026)**: the measurement data behind this playbook — 110 questions, 917 citation rows, 141 ChatGPT answers, 141 annotated pages (CC BY 4.0, DOI 10.5281/zenodo.23005020, [Hugging Face](https://huggingface.co/datasets/CanlahAI/ai-citations-sg-2026)).
 - **[Canlah-AI/seven-engines-geo-forensics](https://github.com/Canlah-AI/seven-engines-geo-forensics)**: our source-forensics case study that put one commercial question to seven search and AI-answer engines in one night, with raw data, frozen classification code and verified mechanism claims (CC BY 4.0, DOI 10.5281/zenodo.22225223). It asks whether engines cite the same sources; this playbook asks what a cited page looks like and how to write one.
+- **[Canlah-AI/agent-readiness-2026](https://github.com/Canlah-AI/agent-readiness-2026)**: whether 50 cross-border DTC storefronts expose what an AI shopping agent looks for (CC BY 4.0, DOI 10.5281/zenodo.22103177, https://canlah.ai/data/agent-readiness-2026/).
 - **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)**: Aaron He's open-source marketing skills (seven disciplines, 120 skills), a source of several templates we adapted; see [`CREDITS.md`](CREDITS.md).
 
 Questions or help with a first round: admin@canlah.ai
