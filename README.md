@@ -9,11 +9,11 @@ By [Canlah AI](https://canlah.ai) · Singapore · v1.0 · content CC BY 4.0, cod
 
 ## Read the full playbook · 完整版在官网
 
-This repository is the condensed version for agents. The full text for people lives only on the website:
+This repository is the condensed version for agents. The full text for people lives only on the website, in English and Chinese:
 
-- **Full playbook (Chinese)**: https://canlah.ai/zh/playbook/ — 9 chapters and 4 appendices, a blueprint for each of the 46 page types, the evidence behind each rule, plus a dental and aesthetics edition. 完整版（中文）
-- **Quick guide (English)**: https://canlah.ai/playbook/ — the whole method on 12 pages. 英文轻量版
-- The quick guide is also downloadable from those pages as PDF and PPTX. Its text is not mirrored here: the website is the only home of the playbook text.
+- **Full playbook (English)**: https://canlah.ai/playbook/ — 9 chapters and 4 appendices, a blueprint for each of the 46 page types, the evidence behind each rule, plus a dental and aesthetics edition (https://canlah.ai/playbook/dental/start/). Also as PDF: [General Edition](https://canlah.ai/playbook/files/geo-playbook-general-en.pdf) · [Dental & Aesthetics](https://canlah.ai/playbook/files/geo-playbook-dental-en.pdf).
+- **完整版（中文原文）**: https://canlah.ai/zh/playbook/ · PDF：[通用版](https://canlah.ai/playbook/files/geo-playbook-general-zh.pdf) · [牙科医美版](https://canlah.ai/playbook/files/geo-playbook-dental-zh.pdf)
+- **For agents**: every chapter has a Markdown edition at the chapter URL + `.md` (e.g. https://canlah.ai/playbook/start.md); contents at https://canlah.ai/playbook/index.md. The 12-page quick guide is on the same landing page as PDF and PPTX.
 
 Every reference file in this repo links to the matching chapter section on canlah.ai.
 

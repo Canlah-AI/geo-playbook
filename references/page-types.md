@@ -591,7 +591,7 @@ Condensed from GEO Playbook chapter 5 (5.1, 5.11–5.30, B.5). Each entry: the b
 
 These are mostly pages you cannot write in place of the official source. What you can do: write downstream pages that quote verbatim, with clause anchors and a check date, and get your own row filled in.
 
-### pt15 · Statute text page 法条原文页
+### pt15 · Legislation text page 法条原文页
 - **Intent**: the "on what basis" part of rule questions; AI wants a URL that points to a clause.
 - **Cited by**: tier B, ChatGPT · 2,500–3,300 words.
 - **Sides**: cite only (own summaries of statutes were never cited in our data).
