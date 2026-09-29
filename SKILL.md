@@ -212,7 +212,8 @@ Never say: "AI will recommend you now", "seat share = market share", "up 2, tren
 | C Ten-axis values for five industries | https://canlah.ai/playbook/industry-reference/ | https://canlah.ai/playbook/industry-reference.md | https://canlah.ai/zh/playbook/industry-reference/ |
 | D Number discipline and glossary | https://canlah.ai/playbook/glossary/ | https://canlah.ai/playbook/glossary.md | https://canlah.ai/zh/playbook/glossary/ |
 | Dental and aesthetics edition | https://canlah.ai/playbook/dental/start/ | https://canlah.ai/playbook/dental/start.md | https://canlah.ai/zh/playbook/dental/start/ |
+| Law Firms edition (Singapore law firms serving individuals and SMEs) | https://canlah.ai/playbook/law/ | https://canlah.ai/playbook/law/start.md | https://canlah.ai/zh/playbook/law/ |
 
-Every dental and aesthetics chapter is listed in https://canlah.ai/playbook/index.md. Full books as PDF: English https://canlah.ai/playbook/files/geo-playbook-general-en.pdf · https://canlah.ai/playbook/files/geo-playbook-dental-en.pdf; Chinese https://canlah.ai/playbook/files/geo-playbook-general-zh.pdf · https://canlah.ai/playbook/files/geo-playbook-dental-zh.pdf
+Every dental-and-aesthetics and law-firm chapter is listed in https://canlah.ai/playbook/index.md. Full books as PDF: English https://canlah.ai/playbook/files/geo-playbook-general-en.pdf · https://canlah.ai/playbook/files/geo-playbook-dental-en.pdf; Chinese https://canlah.ai/playbook/files/geo-playbook-general-zh.pdf · https://canlah.ai/playbook/files/geo-playbook-dental-zh.pdf
 
 Content © Canlah AI, CC BY 4.0. Attribute as: "GEO Playbook by Canlah AI, https://canlah.ai/zh/playbook/".
