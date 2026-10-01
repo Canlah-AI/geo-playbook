@@ -140,6 +140,7 @@ Goal: aim at buyers whose wins pay, not at questions that are easy. Details: [me
 - Per candidate: gate 1 (does the answer name any business?), gate 2 (≥4 reachable URLs in this intent's own top 10, across ≥2 classes), gate 3 (can the business serve and profit from these buyers?).
 - Judge each URL in the intent-level top 10 by URL, not domain: already present / reachable / to ask / not reachable, with date, basis, judge.
 - Slots: 1 = brand / correction; 2 = best hold question; then by value; at most one national bare keyword, last. Pure symptom questions are out.
+- **Question breakdown** for every target: AI does not search the buyer's words once. Run the question through the API at least 3 times, save the `web_search_call` queries, sort each into an angle (credentials and official registers · price · trade or specialist terms · reviews · checking a named business by name or `site:` · finding candidates · year), and match each angle to a page or an off-site entry. Build what is missing. "Who's best" works in two steps: off-site gets you on the shortlist; your own practitioner, service and price pages get you through the check. It is correlation, not a promise to get on the list. Details: https://canlah.ai/playbook/pick-questions/
 
 Output: `season-list.csv` (intent, buyer type, value, four-state actions, acceptance tier), signed by the user.
 
@@ -163,7 +164,7 @@ Goal: get correct facts onto the pages AI already cites. Most AI citations are e
 
 - Targets = the frozen Top 20 plus each intent's top 10, **by URL**. For each: already listed but outdated → update letter; listed with errors → correction letter; not listed and reachable → by who decides: institutions, government registers, associations, manufacturer locators first (free, share rising); bylined factual contributions to media; enquiries for listings; not reachable → monitor only.
 - **Send gate** (all three, or nothing is sent): switch A authorisation on file (if applicable); a signed sign-off sheet for this batch's facts; zero hits on the banned-word list.
-- Paid spots: only fixed rate cards; never lead- or commission-priced; never pages with laudatory titles on the strict side (only corrections there); every paid item marked "paid listing" in every report.
+- Paid spots: only fixed rate cards; never lead- or commission-priced; never pages with laudatory titles on the strict side (if you are already listed on one, ask the publisher to remove you and check it was removed; a correction letter would itself be supplying material); every paid item marked "paid listing" in every report.
 - One letter template, two follow-ups (+7, +21), then stop. No target count; never promise replies.
 - Monthly: check the six kinds of decay (review counts going stale, yearly lists rewritten, old prices on directories, departed staff still listed, annual awards lapsing, third-party pages taken down). Reddit only when it is > 2% of cited URLs this month.
 
