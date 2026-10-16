@@ -11,9 +11,9 @@ By [Canlah AI](https://canlah.ai) · Singapore · v1.0 · content CC BY 4.0, cod
 
 This repository is the condensed version for agents. The full text for people lives only on the website, in English and Chinese:
 
-- **Full playbook (English)**: https://canlah.ai/playbook/ — 9 chapters and 4 appendices, a blueprint for each of the 46 page types, the evidence behind each rule, plus a dental and aesthetics edition (https://canlah.ai/playbook/dental/) and a law firms edition (https://canlah.ai/playbook/law/). Also as PDF: [General Edition](https://canlah.ai/playbook/files/geo-playbook-general-en.pdf) · [Dental & Aesthetics](https://canlah.ai/playbook/files/geo-playbook-dental-en.pdf).
-- **完整版（中文原文）**: https://canlah.ai/zh/playbook/ · PDF：[通用版](https://canlah.ai/playbook/files/geo-playbook-general-zh.pdf) · [牙科医美版](https://canlah.ai/playbook/files/geo-playbook-dental-zh.pdf)
-- **For agents**: every chapter has a Markdown edition at the chapter URL + `.md` (e.g. https://canlah.ai/playbook/start.md); contents at https://canlah.ai/playbook/index.md. The 12-page quick guide is on the same landing page as PDF and PPTX.
+- **Full playbook (English)**: https://canlah.ai/playbook/ — 17 chapters (including 4 appendices), a blueprint for each of the 46 page types, the evidence behind each rule, plus a Dental & Aesthetics Edition (https://canlah.ai/playbook/dental/) and a Law Firms Edition (https://canlah.ai/playbook/law/). Also as PDF: [General Edition](https://canlah.ai/playbook/files/geo-playbook-general-en.pdf) · [Dental & Aesthetics](https://canlah.ai/playbook/files/geo-playbook-dental-en.pdf) · [Law Firms](https://canlah.ai/playbook/files/geo-playbook-law-en.pdf).
+- **完整版（中文原文）**: https://canlah.ai/zh/playbook/ · PDF：[通用版](https://canlah.ai/playbook/files/geo-playbook-general-zh.pdf) · [牙科医美版](https://canlah.ai/playbook/files/geo-playbook-dental-zh.pdf) · [律所版](https://canlah.ai/playbook/files/geo-playbook-law-zh.pdf)
+- **For agents**: every chapter has a Markdown edition at the chapter URL + `.md` (e.g. https://canlah.ai/playbook/start.md); contents at https://canlah.ai/playbook/index.md. The 11-section quick guide is on the same landing page, also as PDF and PPTX.
 
 Every reference file in this repo links to the matching chapter section on canlah.ai.
 
@@ -100,7 +100,7 @@ This playbook was not written from scratch. We borrowed template structures, sen
 
 ## Related · 互链
 
-- **canlah.ai**: full playbook https://canlah.ai/zh/playbook/ · English quick guide https://canlah.ai/playbook/ · dataset page https://canlah.ai/data/ai-citations-sg-2026/
+- **canlah.ai**: full playbook https://canlah.ai/zh/playbook/ · English edition and quick guide https://canlah.ai/playbook/ · dataset page https://canlah.ai/data/ai-citations-sg-2026/
 - **Cite the playbook**: Pang, H. (2026). *GEO Playbook v1.0*. Canlah AI. Zenodo. https://doi.org/10.5281/zenodo.23005022
 - **[Canlah-AI/ai-citations-sg-2026](https://github.com/Canlah-AI/ai-citations-sg-2026)**: the measurement data behind this playbook — 110 questions, 917 citation rows, 141 ChatGPT answers, 141 annotated pages (CC BY 4.0, DOI 10.5281/zenodo.23005020, [Hugging Face](https://huggingface.co/datasets/CanlahAI/ai-citations-sg-2026)).
 - **[Canlah-AI/seven-engines-geo-forensics](https://github.com/Canlah-AI/seven-engines-geo-forensics)**: our source-forensics case study that put one commercial question to seven search and AI-answer engines in one night, with raw data, frozen classification code and verified mechanism claims (CC BY 4.0, DOI 10.5281/zenodo.22225223). It asks whether engines cite the same sources; this playbook asks what a cited page looks like and how to write one.

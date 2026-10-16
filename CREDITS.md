@@ -66,7 +66,7 @@
 | Ahrefs | 2026 年：YouTube 提及和 AI 概览可见度的相关系数是 0.737，外链是 0.218 | 每个厚页配一条本人口述的长视频（6.7）。这是相关，不是因果 | 附录未给 |
 | Ahrefs、Profound | Wikipedia 在 ChatGPT 引用中的份额（Ahrefs 2026-07 追踪为 8.9%；Profound 的 6.8 亿条引用中占 7.8%） | 用 Wikidata 和 Wikipedia 做实体锚点（3.4） | 附录未给 |
 | Whitespark | 540 个查询、3 个美国城市、6 个行业：价格类信息题的 AI 概览覆盖率 92%，价格加交易的混合题 97% | 第一页写价格指南页（0.1、5.12） | 附录未给 |
-| Steady Demand | 1,487 个查询、50 个都市区、14,472 条引用：AI Mode 本地题的引用 79.8% 指回 Google 商家档案 | 商家档案是入场券，不是杠杆（3.4） | 附录未给 |
+| Steady Demand | 1,487 个查询、50 个都市区、14,472 条引用：AI Mode 本地题的引用 79.8% 指回 Google 商家档案 | 商家档案先当入场券做齐，算不算杠杆没有定论（3.4） | 附录未给 |
 | Vercel × MERJ | 5 亿次以上的抓取样本：主流 AI 检索爬虫不执行 JS（2024-12） | 价格、成绩、规格必须出现在首屏 HTML 里（5.7、2.9） | 附录未给 |
 | SE Ranking | XGBoost 引用预测模型：去掉 llms.txt 之后，预测精度反而提高 | 不把 llms.txt 当杠杆（1.4） | 附录未给 |
 | BuzzStream | 屏蔽 GPTBot 的网站有 88.2% 照样被引 | GPTBot 是训练爬虫；robots.txt 里检索段和训练段分开写（2.4、B.1） | 附录未给 |
@@ -266,7 +266,7 @@ Wherever the book uses an outside number, Appendix A gives its sample, date and 
 | Ahrefs | 2026: YouTube mentions correlate 0.737 with AI Overview visibility; backlinks, 0.218 | Pair each substantial page with a long video the practitioner narrates in person (6.7). This is correlation, not causation | Not given in the appendix |
 | Ahrefs, Profound | Wikipedia's share of ChatGPT citations (8.9% in Ahrefs' 2026-07 tracking; 7.8% of Profound's 680M citations) | Wikidata and Wikipedia as entity anchors (3.4) | Not given in the appendix |
 | Whitespark | 540 queries, 3 US cities, 6 industries: AI Overviews appear on 92% of informational price queries and 97% of price-plus-transaction queries | Write the price guide before any other page (0.1, 5.12) | Not given in the appendix |
-| Steady Demand | 1,487 queries, 50 metro areas, 14,472 citations: 79.8% of AI Mode local citations point back to Google Business Profiles | A business profile gets you in the door; it is not a lever (3.4) | Not given in the appendix |
+| Steady Demand | 1,487 queries, 50 metro areas, 14,472 citations: 79.8% of AI Mode local citations point back to Google Business Profiles | Complete the business profiles first, as an entry ticket; whether they are a lever is unproven (3.4) | Not given in the appendix |
 | Vercel × MERJ | 500M+ crawl samples: the main AI retrieval crawlers do not execute JavaScript (2024-12) | Prices, results and specs must be in the initial HTML (5.7, 2.9) | Not given in the appendix |
 | SE Ranking | XGBoost citation model: removing llms.txt made its predictions more accurate | Do not treat llms.txt as a lever (1.4) | Not given in the appendix |
 | BuzzStream | 88.2% of sites that block GPTBot are still cited | GPTBot is a training crawler; write retrieval and training sections of robots.txt separately (2.4, B.1) | Not given in the appendix |
