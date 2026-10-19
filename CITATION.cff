@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use the GEO Playbook, please cite it as below."
+type: software
+title: "GEO Playbook v1.0: A Measured Method for Getting Cited in ChatGPT and Google AI Mode Answers (Singapore)"
+version: "1.0"
+date-released: "2026-09-28"
+doi: "10.5281/zenodo.23005022"
+authors:
+  - family-names: Pang
+    given-names: Haoyang
+    affiliation: Canlah AI
+    orcid: "https://orcid.org/0009-0009-7039-0394"
+license: CC-BY-4.0
+url: "https://canlah.ai/playbook/"
+repository-code: "https://github.com/Canlah-AI/geo-playbook"
+preferred-citation:
+  type: book
+  title: "GEO Playbook v1.0: A Measured Method for Getting Cited in ChatGPT and Google AI Mode Answers (Singapore)"
+  authors:
+    - family-names: Pang
+      given-names: Haoyang
+      affiliation: Canlah AI
+      orcid: "https://orcid.org/0009-0009-7039-0394"
+  year: 2026
+  publisher:
+    name: Canlah AI
+  doi: "10.5281/zenodo.23005022"
+  url: "https://doi.org/10.5281/zenodo.23005022"
+references:
+  - type: data
+    title: "Singapore GEO Citation Probes, September 2026 (ChatGPT and Google AI Mode)"
+    authors:
+      - family-names: Pang
+        given-names: Haoyang
+    doi: "10.5281/zenodo.23005020"
+    url: "https://github.com/Canlah-AI/ai-citations-sg-2026"
+keywords:
+  - generative engine optimization
+  - GEO
+  - AI search
+  - agent skills
+  - ChatGPT
+  - Google AI Mode
+  - Singapore
